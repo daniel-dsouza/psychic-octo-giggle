@@ -2,7 +2,7 @@
 Some of our members build wine runners tailored specifically for Star Citizen.
 
 ### Molotov
-Contain a selection of wine-staging patches.  Often contain experimental patches and solutions for certain problems, i.e. joystick axis fixes.
+Contains a selection of wine-staging patches.  Often contain experimental patches and solutions for certain problems, i.e. joystick axis fixes.
 Mol is using Docker containers to build the runners.
 https://github.com/snatella/wine-runner-sc/releases
 
