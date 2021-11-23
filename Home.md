@@ -11,7 +11,3 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 * [LUG Wine Builds](https://github.com/starcitizen-lug/information-howtos/wiki/Wine-Builds-for-Star-Citizen)
 * [Tips and Tricks](https://github.com/starcitizen-lug/information-howtos/wiki/Tips-and-Tricks)
 * [Common Issues and Solutions](https://github.com/starcitizen-lug/information-howtos/wiki/Common-Issues-and-Solutions)
-
-## News
-
-* **Easy Anti-Cheat:** We are currently waiting for more info from CIG
