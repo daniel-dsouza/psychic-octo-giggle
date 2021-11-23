@@ -7,3 +7,7 @@ If you use Gnome, Lutris can automatically set a flat mouse acceleration profile
 * And add the following to the `Post-exit script` field:
 
 `/usr/bin/sh -c "gsettings set org.gnome.desktop.peripherals.mouse accel-profile default"`
+
+## Suggestions for a good gaming experience
+https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/information-how-to-get-a-good-experience-with-star
+> Join the org to access Spectrum links: https://robertsspaceindustries.com/orgs/LUG
