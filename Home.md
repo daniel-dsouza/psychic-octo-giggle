@@ -1,6 +1,6 @@
 # Welcome, Space Penguins!
 
-This wiki is a collection of information on how to run Star Citizen on Linux, as well as any tips and tricks!
+This wiki is a collection of information on how to run Star Citizen on Linux, as well as our tips and tricks!
 
 Join us! https://robertsspaceindustries.com/orgs/LUG
 
