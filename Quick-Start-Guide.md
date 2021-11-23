@@ -1,5 +1,3 @@
-# Quick-Start Guide
-
 1. Install wine-stable (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
 2. Install Lutris: https://lutris.net/downloads/
 3. Download our LUG-Helper from: https://github.com/the-sane/lug-helper/releases
