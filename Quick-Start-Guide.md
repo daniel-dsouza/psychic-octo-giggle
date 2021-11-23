@@ -1,3 +1,5 @@
+## Installation Steps
+
 1. Install wine-stable (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
 2. Install Lutris: https://lutris.net/downloads/
 3. Download our LUG-Helper from: https://github.com/the-sane/lug-helper/releases
@@ -10,6 +12,8 @@
 10. Optional: Enable Fsync if you have an Fsync-enabled kernel
 11. Under System options, make sure Prefer system libraries is Off.
 12. Run the launcher and install the game. See you in the 'verse!
+
+## Important Information
 
 > If you encounter a white launcher, add the --use-gl=osmesa argument in Lutris: Right click the game->Configure->Game options->Arguments
 
