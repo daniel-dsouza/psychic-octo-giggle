@@ -41,3 +41,7 @@ To prevent the crash, use a override option like this:
 `wine "RSI Launcher.exe" "--use-gl=osmesa"`
 
 If using Lutris, configure Star Citizen (right-click -> Configure), go to Game options, and add `"--use-gl=osmesa"` to the Arguments field.
+
+## Workarounds For In-Game Bugs and Annoyances
+https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/known-workarounds-for-game-bugs-and-annoyances
+> Join the org to access Spectrum links: https://robertsspaceindustries.com/orgs/LUG
