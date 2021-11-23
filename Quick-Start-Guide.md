@@ -2,7 +2,7 @@
 
 1. Install wine-stable (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
 2. Install Lutris: https://lutris.net/downloads/
-3. Download our LUG-Helper from: https://github.com/the-sane/lug-helper/releases
+3. Download our LUG-Helper from: https://github.com/starcitizen-lug/lug-helper
 4. Launch the LUG-Helper and run the Pre-flight Check to optimize your system settings
 5. In the LUG-Helper, select Manage Lutris Runners, and install the latest runner from GloriousEggroll (Or ask us in Spectrum chat which runner is currently best)
 6. Optional: Select Manage DXVK Versions and install the latest dxvk from Sporif Async
