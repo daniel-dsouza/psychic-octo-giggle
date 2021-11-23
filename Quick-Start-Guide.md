@@ -19,8 +19,3 @@
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
 > This can also occur after updating Star Citizen, your graphics driver, Wine, or DXVK.
-
-
-> (Nov 13 2021) We currently recommend the GloriousEggroll 6.19 runner. 6.20 does not work for everyone.
-
-> (Nov 13 2021) Note to Nvidia users: Driver 495 may not work. Use 470 instead.
