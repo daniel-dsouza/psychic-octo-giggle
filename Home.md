@@ -14,4 +14,8 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-* **Easy Anti-Cheat:** We are currently waiting for more info from CIG
+> (Nov 23 2021) **Easy Anti-Cheat:** We are currently waiting for more info from CIG
+
+> (Nov 13 2021) We currently recommend the GloriousEggroll 6.19 runner. 6.20 does not work for everyone.
+
+> (Nov 13 2021) Note to Nvidia users: Driver 495 may not work. Use 470 instead.
