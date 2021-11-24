@@ -15,7 +15,7 @@
 
 ## Important Information
 
-> If you encounter a white launcher, add the `--use-gl=osmesa argument in Lutris`: `Right click the game->Configure->Game options->Arguments`
+> If you encounter a white launcher, add the `--use-gl=osmesa` argument in Lutris: `Right click the game->Configure->Game options->Arguments`
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
 > This can also occur after updating Star Citizen, your graphics driver, Wine, or DXVK.
