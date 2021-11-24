@@ -1,3 +1,8 @@
+## Black or flickering window that ends with a crash, possible errors 15006 or 30007
+Check for larger resolutions and scaling settings.  See this support article:
+
+https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-to-Graphic-Issues#large-res
+
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
 Some people report the launcher hanging in combination with the Lutris runtime. If you are on Lutris, try toggling "Disable Lutris runtime" under "System options" of the Lutris game options.
 
