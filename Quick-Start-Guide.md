@@ -1,6 +1,6 @@
 ## Installation Steps
 
-1. Install wine-stable (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
+1. Install wine-staging (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
 2. Install Lutris: https://lutris.net/downloads/
 3. Download our LUG-Helper from: https://github.com/starcitizen-lug/lug-helper
 4. Launch the LUG-Helper and run the `Pre-flight Check` to optimize your system settings
