@@ -1,14 +1,14 @@
 ## Runners
 Some of our members build wine runners tailored specifically for Star Citizen.
 
-### Molotov
-Contains a selection of wine-staging patches.  Often contain experimental patches and solutions for certain problems, i.e. joystick axis fixes.
-Mol is using Docker containers to build the runners.
-https://github.com/snatella/wine-runner-sc/releases
-
 ### Raw_FoX
 Full wine-staging builds with a focus on stability and runability. Best balance between performance and safety. Tested to work for most people.
 https://github.com/rawfoxDE/raw-wine/releases
+
+### Molotov
+_Currently out of date._ Contains a selection of wine-staging patches.  Often contain experimental patches and solutions for certain problems, i.e. joystick axis fixes.
+Mol is using Docker containers to build the runners.
+https://github.com/snatella/wine-runner-sc/releases
 
 ## Installation
 If you use Lutris, you can use the [LUG Helper](https://github.com/starcitizen-lug/lug-helper) to manage your wine runners or manually install them:
