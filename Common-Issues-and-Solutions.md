@@ -3,6 +3,9 @@ Check for larger resolutions and scaling settings.  See this support article:
 
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-to-Graphic-Issues#large-res
 
+## Game hangs at splash screen
+Try changing to a different DXVK version in the Lutris settings.  Alternative DXVKs can be quickly installed using our [LUG Helper](https://github.com/starcitizen-lug/lug-helper).
+
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
 Some people report the launcher hanging in combination with the Lutris runtime. If you are on Lutris, try toggling "Disable Lutris runtime" under "System options" of the Lutris game options.
 
