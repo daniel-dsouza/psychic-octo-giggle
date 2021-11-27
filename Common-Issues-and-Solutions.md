@@ -1,3 +1,6 @@
+## News
+Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for temporary issues and workarounds.
+
 ## Black or flickering window that ends with a crash, possible errors 15006 or 30007
 Check for larger resolutions and scaling settings.  See this support article:
 
