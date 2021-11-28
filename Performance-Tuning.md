@@ -12,3 +12,6 @@ __GL_SHADER_DISK_CACHE=true
 __GL_SHADER_DISK_CACHE_PATH="/path/you/want/for/your/cache"  (example: /home/myuser/.cache/sccache)
 __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=true
 ```
+
+If you use Lutris, these environment variables can be added here:
+`Right click the game->Configure->System options->Environment variables`
