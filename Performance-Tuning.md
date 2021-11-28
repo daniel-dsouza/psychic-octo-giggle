@@ -14,4 +14,5 @@ __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=true
 ```
 
 If you use Lutris, these environment variables can be added here:
+
 `Right click the game->Configure->System options->Environment variables`
