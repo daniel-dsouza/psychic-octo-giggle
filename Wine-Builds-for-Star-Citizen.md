@@ -3,8 +3,7 @@ Some of our members build wine runners tailored specifically for Star Citizen.
 
 ### Raw_FoX
 Full wine-staging builds with a focus on stability and runability. Best balance between performance and safety. Tested to work for most people.
-
-https://github.com/rawfoxDE/raw-wine/releases
+https://github.com/starcitizen-lug/raw-wine
 
 ### Molotov
 _Currently out of date._ Contains a selection of wine-staging patches, built in Docker containers. Often contain experimental patches and solutions for certain problems, i.e. joystick axis fixes.
