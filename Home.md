@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (Nov 23 2021) **Easy Anti-Cheat:** We are currently waiting for more info from CIG
+> (Dev 6 2021) **Easy Anti-Cheat is live** We're working on it.
 
 > (Nov 13 2021) We currently recommend the GloriousEggroll 6.19 runner. 6.20 does not work for everyone.
 
