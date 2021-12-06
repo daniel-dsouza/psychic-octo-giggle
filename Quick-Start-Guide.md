@@ -15,6 +15,8 @@
 
 ## Important Information
 
+> The Lutris install script currently tries to download a version of the GE wine runner that does not exist.  You may receive an error that it failed to retrieve wine.  We have submitted a request to the Lutris team to fix their install script.  Until then, work around this issue by installing the runner using the Helper before installing Star Citizen.
+
 > If you encounter a white launcher, add the `--use-gl=osmesa` argument in Lutris: `Right click the game->Configure->Game options->Arguments`
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
