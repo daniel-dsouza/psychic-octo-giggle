@@ -15,7 +15,7 @@
 
 ## Important Information
 
-> The Lutris install script currently tries to download a version of the GE wine runner that does not exist.  You may receive an error that it failed to retrieve wine.  We have submitted a request to the Lutris team to fix their install script.  Until then, work around this issue by installing the runner using the Helper before installing Star Citizen.
+> During installation of Star Citizen, you may receive an error that Lutris failed to retrieve wine.  We have submitted a request to the Lutris team to fix their install script, which is trying to download an invalid version of the GE runner.  Until then, work around this issue by first installing the runner using the Helper, then installing the game.
 
 > If you encounter a white launcher, add the `--use-gl=osmesa` argument in Lutris: `Right click the game->Configure->Game options->Arguments`
 
