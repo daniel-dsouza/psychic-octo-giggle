@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (Dev 6 2021) **Easy Anti-Cheat is live.** We're working on it.
+> (Dev 6 2021) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem. For now, use [this special branch](https://github.com/starcitizen-lug/lug-helper/tree/eac-workaround) of the LUG-Helper to apply a workaround to /etc/hosts and delete the EAC files. This workaround will stop working when CIG decides to start kicking players who trigger the anticheat. For now, they are simply collecting data.
 
 > (Nov 13 2021) We currently recommend the GloriousEggroll 6.19 runner. 6.20 does not work for everyone.
 
