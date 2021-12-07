@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (Dec 6 2021) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem, but there is no ETA. There is a workaround, but we can't officially recommend it as it may get you kicked or, if CIG decides to, banned. If you really must know, ask on any of the social channels.
+> (Dec 7 2021) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem, but there is no ETA. There is a workaround, but we can't officially recommend it as it may get you kicked or, if CIG decides to, banned. If you really must know, ask on any of the social channels.
 
 > (Nov 13 2021) We currently recommend the GloriousEggroll 6.19 runner. 6.20 does not work for everyone.
 
