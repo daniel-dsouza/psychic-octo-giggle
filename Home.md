@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (Dec 15 2021) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem, but there is no ETA. There is a workaround, but we can't officially recommend it as it will get you kicked when they turn on kicking (it is currently off). We also have no information on whether CIG will enable banning or not. If you really must know, ask on any of the social channels.
+> (Dec 15 2021) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem, but there is no ETA. There is a workaround, but we can't officially recommend it as it will get you kicked when they turn kicking on (it is currently off). We also have no information on whether CIG will enable banning or not. If you really must know, ask on any of the social channels.
 
 > (Dec 15 2021) The latest default DXVK version in Lutris, `1.9.2L-3e64e1b` can cause cache corruption problems. We recommend using either `1.9.2L` or download an async DXVK using our [Helper](https://github.com/starcitizen-lug/lug-helper).
 
