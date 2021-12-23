@@ -31,7 +31,9 @@ Make sure you have set your vm.max_map_count as described in the installation se
 This could have many causes. Your best bet is to check the Wine output and/or "game.log" file. See common causes below:
 
 ### Possible cause 1:
+Some people report changing their DXVK version fixes this. Try using our [Helper](https://github.com/starcitizen-lug/lug-helper) to download an async DXVK.
 
+### Possible cause 2:
 Many keyboards and mice can also have a "joystick" part in Linux, which Wine can detect. Unfortunately, Wine may be confused about it, as they are not real joysticks. In this case, the game could crash. Try running the Wine joystick control panel "wine control" (in Lutris: right click -> Joystick configuration) and disable your keyboard and/or mice.
 This will not affect how your keyboard and mice work in the game.
 
