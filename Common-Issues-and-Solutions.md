@@ -9,6 +9,16 @@ https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-
 ## Game hangs at splash screen
 Try changing to a different DXVK version in the Lutris settings.  Alternate DXVKs can be quickly installed using our [LUG Helper](https://github.com/starcitizen-lug/lug-helper).
 
+## Game crashes after clicking 'Launch'
+This could have many causes. Your best bet is to check the Wine output and/or "game.log" file. See common causes below:
+
+### Possible cause 1:
+Some people report changing their DXVK version fixes this. Try using our [Helper](https://github.com/starcitizen-lug/lug-helper) to download an async DXVK.
+
+### Possible cause 2:
+Many keyboards and mice can also have a "joystick" part in Linux, which Wine can detect. Unfortunately, Wine may be confused about it, as they are not real joysticks. In this case, the game could crash. Try running the Wine joystick control panel "wine control" (in Lutris: right click -> Joystick configuration) and disable your keyboard and/or mice.
+This will not affect how your keyboard and mice work in the game.
+
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
 Some people report the launcher hanging in combination with the Lutris runtime. If you are on Lutris, try toggling "Disable Lutris runtime" under "System options" of the Lutris game options.
 
@@ -25,17 +35,6 @@ Make sure you followed the guide to install Wine's dependencies and set your vm.
 
 ## Game crashes with " 00adntdll:FILE_GetNtStatus Converting errno 12 to STATUS_UNSUCCESSFUL "
 Make sure you have set your vm.max_map_count as described in the installation section.
-
-
-## Game crashes after clicking 'Launch'
-This could have many causes. Your best bet is to check the Wine output and/or "game.log" file. See common causes below:
-
-### Possible cause 1:
-Some people report changing their DXVK version fixes this. Try using our [Helper](https://github.com/starcitizen-lug/lug-helper) to download an async DXVK.
-
-### Possible cause 2:
-Many keyboards and mice can also have a "joystick" part in Linux, which Wine can detect. Unfortunately, Wine may be confused about it, as they are not real joysticks. In this case, the game could crash. Try running the Wine joystick control panel "wine control" (in Lutris: right click -> Joystick configuration) and disable your keyboard and/or mice.
-This will not affect how your keyboard and mice work in the game.
 
 
 ## Some of your joysticks disappear / aren't recognized in the game
