@@ -1,5 +1,11 @@
 ## Prerequisites
 
+1. A minimum of 16GB of RAM
+2. A CPU that supports the AVX instruction set
+3. wine-staging (or just the dependencies) installed on your system. Follow this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
+4. vm.max_map_count set to at least 16777216
+5. Hard open file descriptors limit set to at least 524288
+
 **To check and set vm.max_map_count temporarily**
 ```
 sysctl vm.max_map_count => To check the value
@@ -8,7 +14,7 @@ sudo sysctl -w vm.max_map_count=16777216 => To set it temporarily
 
 **To set vm.max_map_count permanently**
 
-_Manjaro / Antergos / Arch / Arch-based (probably) / Ubuntu (and probably derivatives) / Fedora_
+_Distributions using systemd: Manjaro / Antergos / Arch / Arch-based (probably) / Ubuntu (and probably derivatives) / Fedora_
 
 * Create a new file in `/etc/sysctl.d/`
 * To name the file, the leading number is the priority of the file and the ending is `.conf`. For example, `"/etc/sysctl.d/20-max_map_count.conf"`.
@@ -23,6 +29,15 @@ _Distributions that use sysctl.conf_
 * Append the same line to `/etc/sysctl.conf`
 * To reload it, run `sudo sysctl -p`
 
+**To set your system's hard open file descriptors limit**
+
+_Distributions using systemd: Manjaro / Antergos / Arch / Arch-based (probably) / Ubuntu (and probably derivatives) / Fedora_
+
+* Add the following line to /etc/systemd/system.conf: `DefaultLimitNOFILE=524288`
+
+_Distributions that use /etc/security/limits.conf_
+
+* Add the following line to /etc/security/limits.conf: `* hard nofile 524288`
 
 ## Installing
 
