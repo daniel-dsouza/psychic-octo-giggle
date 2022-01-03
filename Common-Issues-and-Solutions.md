@@ -20,6 +20,14 @@ Many keyboards and mice can also have a "joystick" part in Linux, which Wine can
 This will not affect how your keyboard and mice work in the game.
 
 
+## Game crashes after clicking 'Verify'
+Make sure Star Citizen is installed on drive "C:\" Check the "Library Folder" option in the launcher settings:
+
+![Star Citizen launcher](https://media.discordapp.net/attachments/608349808956276737/927652866389340310/Screenshot_from_2022-01-03_14-56-37.png)
+
+Additionally, make sure the wine prefix is not installed on an NTFS formatted partition.
+
+
 ## Launcher crashes on load / white screen / error DCompositionCreateDevice
 That's an issue by the launcher using the compositor that fails for some players.
 To prevent the crash, use a override option like this:
