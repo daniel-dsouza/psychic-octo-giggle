@@ -19,5 +19,3 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 > (Dec 29 2021) Note to Nvidia users: Driver 495.46 works only with wine-7.x and dxvk-1.9.2. Alternatively, use 470 instead.
 
 > (Dec 15 2021) The latest default DXVK version in Lutris, `1.9.2L-3e64e1b` can cause cache corruption problems. We recommend using either `1.9.2L` or download an async DXVK using our [Helper](https://github.com/starcitizen-lug/lug-helper).
-
-> (Dec 7 2021) **Failed to retrieve wine:** During installation of Star Citizen, you may receive an error that Lutris failed to retrieve wine.  We have submitted a request to the Lutris team to fix their install script, which is trying to download an invalid version of the GE runner.  Until then, work around this issue by first installing the runner using the Helper `wine-lutris-ge-6.21-1-x86_64`. Then, navigate to the runner directory (`~/.local/share/lutris/runners/wine`) and rename the directory `wine-lutris-ge-6.21-1-x86_64` to the name that Lutris expects: `lutris-ge-6.21-1-x86_64`.
