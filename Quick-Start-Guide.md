@@ -4,10 +4,10 @@
 2. Install Lutris: https://lutris.net/downloads/
 3. Download our LUG Helper from: https://github.com/starcitizen-lug/lug-helper
 4. Launch the LUG Helper and run the `Pre-flight Check` to optimize your system settings
-5. In the LUG Helper, select `Manage Lutris Runners`, and install the latest runner from GloriousEggroll (Or ask us in Spectrum chat which runner is currently best)
-6. _Optional: Select `Manage DXVK Versions` and install the latest dxvk from Sporif Async_
-7. In the LUG Helper, select `Install Star Citizen` and install the game to an SSD (we do not recommend an HDD) _(See important information below)_
-8. After the launcher installs, close it. Configure Lutris to use the installed runner. `Right click the game->Configure->Runner Options->Wine version`
+5. In the LUG Helper, select `Install Star Citizen` and install the game to an SSD (we do not recommend an HDD) _(See important information below)_
+6. In the LUG Helper, select `Manage Lutris Runners`, and install the latest runner from GloriousEggroll (Or ask us in Spectrum chat which runner is currently best)
+7. Configure Lutris to use the installed runner. `Right click the game->Configure->Runner Options->Wine version`
+8. _Optional: Select `Manage DXVK Versions` and install the latest dxvk from Sporif Async_
 9. _Optional: Check `Show advanced options` to configure `DXVK version`. Select `Manual` then overwrite it with the folder name of the downloaded dxvk_
 10. _Optional: Enable Fsync if you have an Fsync-enabled kernel_
 11. Under `System options`, make sure `Prefer system libraries` is `Off`.
