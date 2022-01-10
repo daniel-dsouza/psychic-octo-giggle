@@ -11,7 +11,7 @@
 9. _Optional: Check `Show advanced options` to configure `DXVK version`. Select `Manual` then overwrite it with the folder name of the downloaded dxvk_
 10. _Optional: Enable Fsync if you have an Fsync-enabled kernel_
 11. Under `System options`, make sure `Prefer system libraries` is `Off`.
-12. Run the launcher and install the game. See you in the 'verse!
+12. Run the launcher and finish installing the game. See you in the 'verse!
 
 ## Important Information
 
