@@ -65,7 +65,7 @@ Check that the game has not set the deadzone for this axis to 100%
 
 
 ## In Lutris, right clicking on Star Citizen and selecting "Configure" does not bring up the configuration
-Completely close Lutris with `kill lutris`, delete everything inside the Lutris cache directory `~/.cache/lutris`, and try again.
+Completely close Lutris with `kill lutris`, delete everything inside the Lutris cache directory `~/.cache/lutris`, and relaunch Lutris.
 
 
 ## Workarounds For In-Game Bugs and Annoyances
