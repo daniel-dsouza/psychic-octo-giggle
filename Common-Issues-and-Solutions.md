@@ -64,6 +64,10 @@ Then execute the wine joystick control panel (in Lutris: right-click -> Joystick
 Check that the game has not set the deadzone for this axis to 100%
 
 
+## In Lutris, right clicking on Star Citizen and selecting "Configure" does not bring up the configuration
+Completely close Lutris with `kill lutris`, delete everything inside the Lutris cache directory `~/.cache/lutris`, and try again.
+
+
 ## Workarounds For In-Game Bugs and Annoyances
 https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/known-workarounds-for-game-bugs-and-annoyances
 > Join the org to access Spectrum links: https://robertsspaceindustries.com/orgs/LUG
