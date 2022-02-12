@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (Feb 12, 2022) **Easy Anti-Cheat is live.** CIG is aware of and working on the problem, but there is still no ETA. There is a workaround, but we can't officially recommend it. There are currently no consequences that we are aware of for using the workaround, but CIG has said that eventually people will be kicked for tripping EAC. Ask in any of our social channels or use the LUG Helper.
+> (Feb 12, 2022) **Easy Anti-Cheat is live.** CIG is aware of the problem but there is still no ETA. There is a workaround, but we can't officially recommend it. There are currently no consequences that we are aware of for using the workaround, but CIG has said that eventually people will be kicked for tripping EAC. Ask in any of our social channels or use the LUG Helper.
 
 > (Dec 29 2021) Note to Nvidia users: Driver 495.46 works only with wine-7.x and dxvk-1.9.2. For some, it doesn't work at all. Alternatively, use 470 or 510 instead.
 
