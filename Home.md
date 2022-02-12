@@ -18,4 +18,4 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 > (Dec 29 2021) Note to Nvidia users: Driver 495.46 works only with wine-7.x and dxvk-1.9.2. For some, it doesn't work at all. Alternatively, use 470 or 510 instead.
 
-> (Dec 15 2021) DXVK version `1.9.2L-3e64e1b` can cause cache corruption problems. We recommend using either `1.9.2L` or a newer DXVK version.
+> (Dec 15 2021) DXVK version `1.9.2L-3e64e1b` can cause cache corruption problems. We recommend using either `1.9.2L` or a newer version.
