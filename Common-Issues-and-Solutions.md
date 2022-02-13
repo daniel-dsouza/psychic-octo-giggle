@@ -45,6 +45,10 @@ Make sure you have set your vm.max_map_count as described in the installation se
 Make sure you followed the guide to install Wine's dependencies and set your vm.max_map_count as described in the installation section.
 
 
+## Launcher freezes within a few seconds of opening
+Try changing "Prefer system libraries" to ON. Right click the game -> Configure -> System options -> Prefer system libraries
+
+
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
 Some people report the launcher hanging in combination with the Lutris runtime. If you are on Lutris, try toggling "Disable Lutris runtime" under "System options" of the Lutris game options.
 
