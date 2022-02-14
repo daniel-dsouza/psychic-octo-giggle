@@ -46,7 +46,7 @@ Make sure you followed the guide to install Wine's dependencies and set your vm.
 
 
 ## Launcher freezes within a few seconds of opening
-Try changing "Prefer system libraries" to ON. Right click the game -> Configure -> System options -> Prefer system libraries
+Try using a different runner. Ask on Spectrum or in our social channels which runner is currently recommended. Alternatively, you can try changing "Prefer system libraries" to ON, although this may have other side effects. Right click the game -> Configure -> System options -> Prefer system libraries
 
 
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
