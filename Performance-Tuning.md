@@ -3,6 +3,10 @@ We have a helper script which can help you manage and optimize Star Citizen on L
 
 https://github.com/starcitizen-lug/lug-helper
 
+## DXVK Async
+Using an async DXVK can greatly reduce stuttering. We recommend https://github.com/Sporif/dxvk-async/  
+You can manually download it or use the Helper to automatically install it for Lutris. After downloading, be sure to set the environment variable `DXVK_ASYNC=1` in the Lutris configuration to enable it. Right click the game->Configuration->System options->Environment variables
+
 ## Nvidia Cache
 
 By default Nvidia has a combined cache for all games. As the cache fills up from other games, Star Citizen's shaders may get deleted leading to poor FPS. We recommend giving SC its own persistent cache by adding the following environment variables:
