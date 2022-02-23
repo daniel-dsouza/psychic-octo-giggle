@@ -45,6 +45,12 @@ Make sure you have set your vm.max_map_count as described in the installation se
 Make sure you followed the guide to install Wine's dependencies and set your vm.max_map_count as described in the installation section.
 
 
+## Game crashes with "STATUS_CRYENGINE_FATAL_ERROR" in game.log
+Some penguins have had success changing the Windows compatibility from Win10 to Win8.1 in the Wine configuration. Select Star Citizen in Lutris, then click the Wine button at the bottom and select `Wine configuration`:  
+![](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/zKGOXxMOsktqYKqevqeSvYSw)  
+In the Wine configuration, under the `Applications` tab, change `Windows version` to `Windows 8.1`
+
+
 ## Launcher freezes within a few seconds of opening
 Try using a different runner. Ask on Spectrum or in our social channels which runner is currently recommended. Alternatively, you can try changing "Prefer system libraries" to ON, although this may have other side effects. Right click the game -> Configure -> System options -> Prefer system libraries
 
