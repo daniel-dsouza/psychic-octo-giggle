@@ -23,3 +23,17 @@ __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=true
 If you use Lutris, these environment variables can be added here:
 
 `Right click the game->Configure->System options->Environment variables`
+
+## Game Settings
+
+The following game settings can help improve framerates:
+
+- Set `Quality` to `High` (Set to `Very High` to offload more work from your CPU to your GPU)
+- Set `Planet Volumetric Clouds` to `Medium`
+- Set `Scattered Object Distance` to `Low`
+- Set `Motion Blur` to `Off`
+- Set `Sharpening` to `100`
+
+## Feral GameMode
+
+Gamemode can help improve performance by applying OS-level performance tweaks as the game is launched. Search for `gamemode` in your Distro's repos. Once installed, Lutris has a toggle for `Enable Feral GameMode` under `System options`. It defaults to ON if it detects gamemode is installed.
