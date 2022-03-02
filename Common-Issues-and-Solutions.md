@@ -9,11 +9,15 @@ https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-
 ## Game hangs at splash screen
 Try changing to a different DXVK version in the Lutris settings.  Alternate DXVKs can be quickly installed using our [LUG Helper](https://github.com/starcitizen-lug/lug-helper).
 
+DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
+
 ## Game crashes after clicking 'Launch'
 This could have many causes. Your best bet is to check the Wine output and/or "game.log" file. See common causes below:
 
 ### Possible cause 1:
 Some people report changing their DXVK version fixes this. Try using our [Helper](https://github.com/starcitizen-lug/lug-helper) to download an async DXVK.
+
+DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
 
 ### Possible cause 2:
 Many keyboards and mice can also have a "joystick" part in Linux, which Wine can detect. Unfortunately, Wine may be confused about it, as they are not real joysticks. In this case, the game could crash. Try running the Wine joystick control panel "wine control" (in Lutris: right click -> Joystick configuration) and disable your keyboard and/or mice.
