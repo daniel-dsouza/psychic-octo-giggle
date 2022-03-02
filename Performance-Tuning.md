@@ -10,6 +10,8 @@ You can manually download it or use the Helper to automatically install it for L
 2. `Right click the game->Configure->Runner Options`. Check `Show advanced options` to unhide `DXVK version`.
 3. In `DXVK version`, select `Manual` then overwrite it with the folder name of the downloaded dxvk (ie. _dxvk-async-1.9.4_)
 
+![](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/wQRsUySnKmchQWyZrmoZFDnJ)
+
 ## Nvidia Cache
 
 By default Nvidia has a combined cache for all games. As the cache fills up from other games, Star Citizen's shaders may get deleted leading to poor FPS. We recommend giving SC its own persistent cache by adding the following environment variables:
