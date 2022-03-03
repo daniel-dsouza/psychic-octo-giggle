@@ -26,6 +26,8 @@ If you use Lutris, these environment variables can be added here:
 
 `Right click the game->Configure->System options->Environment variables`
 
+![](https://matrix-client.matrix.org/_matrix/media/r0/download/xndr.de/AwspONZSbLKcXCCkBojwyIYT)
+
 ## Game Settings
 
 The following game settings can help improve framerates:
