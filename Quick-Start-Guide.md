@@ -14,6 +14,7 @@
 13. Run the launcher and finish installing the game. See you in the 'verse!
 
 ## Important Information
+> Questions or Problems? Ask for help in one of our [social channels](https://github.com/starcitizen-lug/information-howtos#socials)!
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
 > This can also occur after updating Star Citizen, your graphics driver, Wine, or DXVK.
