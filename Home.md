@@ -14,7 +14,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (March 18, 2022) **Note to Nvidia users:** If you have issues launching the game when using driver v510, try using DXVK v1.9.2 installed from the LUG Helper. DXVK v1.9.3+ seems to only work for non-RTX cards. Note that driver v495 causes issues for most people. Alternatively, try a patched version of DXVK from gnusenpai, also available in the Helper. This patched version may not work with other games.
+> (March 18, 2022) **Note to Nvidia users:** If you have issues launching the game when using driver v510, try using DXVK v1.9.2 installed from the LUG Helper. DXVK v1.9.3+ seems to only work for non-RTX cards. Note that driver v495 causes issues for most people. Alternatively, try a patched version of DXVK from gnusenpai, available in the Helper. This patched version may not work with other games.
 
 > (March 6, 2022) **Note to Nvidia users:** wine-7.3 gives an error for some users: `virtual_setup_exception stack overflow` when compiling shaders. We currently recommend the GE 7.2 release.
 
