@@ -14,9 +14,11 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 ## News
 
-> (March 18, 2022) **Note to Nvidia users:** If you have issues launching the game when using driver v510, try using DXVK v1.9.2 installed from the LUG Helper. DXVK v1.9.3+ seems to only work for non-RTX cards. Note that driver v495 causes issues for most people. Alternatively, try a patched version of DXVK from gnusenpai, available in the Helper. This patched version may not work with other games.
+> (March 20, 2022) **Note to Nvidia users:** DXVK v1.9.3+ seems to only work for non-RTX cards. We recommend using DXVK v1.9.2 installed from the LUG Helper. Alternatively, try a patched version of DXVK from gnusenpai, also available in the Helper. Note that this patched version may not work with other games.
 
-> (March 6, 2022) **Note to Nvidia users:** wine-7.3 gives an error for some users: `virtual_setup_exception stack overflow` when compiling shaders. We currently recommend the GE 7.2 release.
+> (March 20, 2022) **Note to Nvidia users:** wine versions 7.3+ have been problematic for some users. Issues vary but errors may include `virtual_setup_exception stack overflow` when compiling shaders. We recommend the GE 7.2 release if you are experiencing problems or crashes.
+
+> (March 6, 2022) **Note to Nvidia users:** Driver v495 causes issues for most people.
 
 > (Feb 12, 2022) **Easy Anti-Cheat is live.** CIG is aware of the problem but there is still no ETA. There is a workaround, but we can't officially recommend it. There are currently no consequences that we are aware of for using the workaround, but CIG has said that eventually people will be kicked for tripping EAC. Ask in any of our social channels or use the LUG Helper.
 
