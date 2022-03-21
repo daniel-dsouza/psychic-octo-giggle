@@ -18,7 +18,7 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 > (March 20, 2022) **Note to Nvidia users:** wine versions 7.3+ have been problematic for some users. Issues vary but errors may include `virtual_setup_exception stack overflow` when compiling shaders. We recommend the GE 7.2 release if you are experiencing problems or crashes.
 
-> (March 6, 2022) **Note to Nvidia users:** Driver v495 causes issues for most people.
+> (March 6, 2022) **Note to Nvidia users:** Driver v495 causes issues for most people. If you have unresolvable performance issues with 510, try 470.
 
 > (Feb 27, 2022) Glorious Eggroll runners are now based on Proton experimental instead of wine staging. The release version numbers no longer correspond to wine version numbers. The major version number reflects the Proton version it is based on. The numbers after the dashes only reflect GE releases/patches.
 
