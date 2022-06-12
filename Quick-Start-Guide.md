@@ -19,3 +19,5 @@
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
 > This can also occur after updating Star Citizen, your graphics driver, Wine, or DXVK.
+
+>*NVIDIA* users Should use gnusenpai DXVK https://github.com/gnusenpai/dxvk/releases/tag/v1.10.1-sc-async to fix the `corrupted size vs. prev_size` error
