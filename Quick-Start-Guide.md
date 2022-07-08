@@ -15,6 +15,8 @@
 14. Run the launcher and finish installing the game. See you in the 'verse!
 
 ## Important Information
+### Current recommended WINE version: [GE wine 7-15 SC](https://github.com/GloriousEggroll/wine-ge-custom/releases/tag/GE-Proton7-15) 
+### Current recommended DXVK version: **1.10.1** for **AMDGPU** [1.10.1-sc-async](https://github.com/gnusenpai/dxvk/releases/tag/v1.10.1-sc-async) from gnusenpai for **NVIDIA**
 > Questions or Problems? Ask for help in one of our [social channels](https://github.com/starcitizen-lug/information-howtos#socials)!
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
