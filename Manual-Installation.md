@@ -39,6 +39,12 @@ _Distributions that use /etc/security/limits.conf_
 
 * Add the following line to /etc/security/limits.conf: `* hard nofile 524288`
 
+**To apply the EAC Workaround**
+
+Add the following line to your /etc/hosts file:
+
+`127.0.0.1 modules-cdn.eac-prod.on.epicgames.com #Star Citizen EAC workaround`
+
 ## Installing
 
 * Install vanilla Wine 6.4+ or a custom Runner **(As of 3.13 we recommend a [runner built for Star Citizen](https://github.com/starcitizen-lug/information-howtos/wiki/Wine-Builds-for-Star-Citizen))**
