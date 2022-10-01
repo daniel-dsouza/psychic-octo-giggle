@@ -54,3 +54,8 @@ _Distributions that use /etc/security/limits.conf_
 If you have trouble installing recent Wine versions on a Debian-based distro due to missing faudio, see:
 
 https://www.linuxuprising.com/2019/09/how-to-install-wine-staging-development.html
+
+## EAC Workaround
+
+* Add the following line to your `/etc/hosts` file:
+`127.0.0.1 modules-cdn.eac-prod.on.epicgames.com #Star Citizen EAC workaround`
