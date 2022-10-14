@@ -27,5 +27,3 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 > (Feb 27, 2022) Glorious Eggroll runners are now based on Proton experimental instead of wine staging. The release version numbers no longer correspond to wine version numbers. The major version number reflects the Proton version it is based on. The numbers after the dashes only reflect GE releases/patches.
 
 > (Feb 12, 2022) **Easy Anti-Cheat is live.** CIG is aware of the problem but there is still no ETA. There is a workaround, but CIG can't officially recommend we use it. There are currently no consequences that we are aware of for using the workaround, but CIG has said that eventually people will be kicked for tripping EAC. Ask in any of our social channels or use the LUG Helper.
-
-> (Dec 15 2021) DXVK version `1.9.2L-3e64e1b` can cause cache corruption problems. We recommend using either `1.9.2L` or a newer version.
