@@ -45,3 +45,7 @@ Gamemode can help improve performance by applying OS-level performance tweaks as
 ## Fsync
 
 An fsync-enabled Kernel can help improve smoothness while shaders are being compiled in the game. Enable fsync in Lutris under Runner Options.
+
+## Swap
+
+Depending on your system hardware, a larger swap file may be needed. For systems with 16gb RAM, we recommend at least a 16gb swap file. Less swap space may be required for systems with 32gb or more of RAM.
