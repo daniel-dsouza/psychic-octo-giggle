@@ -48,4 +48,4 @@ An fsync-enabled Kernel can help improve smoothness while shaders are being comp
 
 ## Swap
 
-Depending on your system hardware, a larger swap file may be needed. For systems with 16gb RAM, we recommend at least a 16gb swap file. Less swap space may be required for systems with 32gb or more of RAM.
+Depending on your system hardware, a larger swap file may be needed. For systems with 16gb RAM, we recommend at least a 16gb swap file. Less swap space may be needed for systems with 32gb or more of RAM.
