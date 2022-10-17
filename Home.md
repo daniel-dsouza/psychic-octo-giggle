@@ -17,6 +17,8 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 ## News
 
+> (Oct 17, 2022) DXVK v1.10.2/v1.10.3 may cause a black or transparent screen after launching the game depending on your hardware. If you experience this, try a different DXVK version.
+
 > (Oct 14, 2022) Penguins on rolling release distributions (ie. Arch, Manjaro) are reporting sound issues in-game. The solution is to set `Prefer System Libraries` in Lutris to `ON`.
 
 > (Jun 11, 2022) **Note to Nvidia users:** NVIDIA users Should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
