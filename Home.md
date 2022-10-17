@@ -21,8 +21,6 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 > (Jun 11, 2022) **Note to Nvidia users:** NVIDIA users Should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
 
-> (May 22, 2022) **SC 3.17.1** currently requires a Wine patch to play. Work is going on to add that to upstream Wine, but in the meantime, you can build with this [patch](https://build.opensuse.org/package/view_file/home:ngh/wine/threadpowerthrottlingstate.patch?expand=1), or use one of the pre-compiled versions from [GloriousEggroll](https://github.com/GloriousEggroll/wine-ge-custom/releases/tag/GE-Proton7-15-SC) or  [RawFox](https://github.com/starcitizen-lug/raw-wine/releases/tag/7.12).
-
 > (March 6, 2022) **Note to Nvidia users:** Driver v495 causes issues for most people. If you have unresolvable performance issues with 510, try 470.
 
 > (Feb 27, 2022) Glorious Eggroll runners are now based on Proton experimental instead of wine staging. The release version numbers no longer correspond to wine version numbers. The major version number reflects the Proton version it is based on. The numbers after the dashes only reflect GE releases/patches.
