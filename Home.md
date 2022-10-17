@@ -2,7 +2,10 @@
 
 This wiki is a collection of information on how to run Star Citizen on Linux, as well as our tips and tricks!
 
-Join us! https://robertsspaceindustries.com/orgs/LUG
+Join us! https://robertsspaceindustries.com/orgs/LUG  
+
+Discord: https://discord.gg/meCFYPj  
+Matrix space: https://matrix.to/#/#SCLUG:matrix.org  
 
 ## Contents
 * [Quick-Start Guide](https://github.com/starcitizen-lug/information-howtos/wiki/Quick-Start-Guide)
