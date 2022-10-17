@@ -16,6 +16,8 @@ Join us! https://robertsspaceindustries.com/orgs/LUG
 
 > (Oct 14, 2022) Penguins on rolling release distributions (ie. Arch, Manjaro) are reporting sound issues in-game. The solution is to set `Prefer System Libraries` in Lutris to `ON`.
 
+> (Jun 11, 2022) **Note to Nvidia users:** NVIDIA users Should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
+
 > (May 22, 2022) **SC 3.17.1** currently requires a Wine patch to play. Work is going on to add that to upstream Wine, but in the meantime, you can build with this [patch](https://build.opensuse.org/package/view_file/home:ngh/wine/threadpowerthrottlingstate.patch?expand=1), or use one of the pre-compiled versions from [GloriousEggroll](https://github.com/GloriousEggroll/wine-ge-custom/releases/tag/GE-Proton7-15-SC) or  [RawFox](https://github.com/starcitizen-lug/raw-wine/releases/tag/7.12).
 
 > (March 20, 2022) **Note to Nvidia users:** DXVK v1.9.3+ seems to only work for non-RTX cards. We recommend using DXVK v1.9.2 installed from the LUG Helper. Alternatively, try a patched version of DXVK from gnusenpai, also available in the Helper. Note that this patched version may not work with other games.
