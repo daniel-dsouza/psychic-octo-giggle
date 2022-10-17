@@ -6,7 +6,7 @@ Check for larger resolutions and scaling settings.  See this support article:
 
 https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-to-Graphic-Issues#large-res
 
-## Game hangs at splash screen
+## Game hangs at splash screen or black window after clicking 'Launch'
 Try changing to a different DXVK version in the Lutris settings.  Alternate DXVKs can be quickly installed using our [LUG Helper](https://github.com/starcitizen-lug/lug-helper).
 
 DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
