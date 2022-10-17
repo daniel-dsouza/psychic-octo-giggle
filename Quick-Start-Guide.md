@@ -12,7 +12,7 @@
 11. _Optional: In the Runner Options tab, Enable Fsync if you have an Fsync-enabled kernel (enabled in standard kernel since 5.16)_
 12. Under `System options`, make sure `Prefer system libraries` is `Off`. Only if you find you have no sound in-game, turn this to `On`
 13. Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for important gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions
-14. **NVidia users:** You _really_ need to check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current driver and DXVK version requirements
+14. **Nvidia users:** You _really_ need to check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current driver and DXVK version requirements
 15. Run the launcher and finish installing the game. See you in the 'verse!
 
 ## Important Information
