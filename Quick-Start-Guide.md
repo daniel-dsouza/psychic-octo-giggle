@@ -12,14 +12,11 @@
 11. _Optional: In the Runner Options tab, Enable Fsync if you have an Fsync-enabled kernel (enabled in standard kernel since 5.16)_
 12. Under `System options`, make sure `Prefer system libraries` is `Off`. Only if you find you have no sound in-game, turn this to `On`
 13. Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for any important gpu driver issues or necessary workarounds
-14. Run the launcher and finish installing the game. See you in the 'verse!
+14. **NVidia users:** You _really_ need to check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current driver and DXVK version requirements
+15. Run the launcher and finish installing the game. See you in the 'verse!
 
 ## Important Information
-### Current recommended WINE version: [GE wine 7-15 SC](https://github.com/GloriousEggroll/wine-ge-custom/releases/tag/GE-Proton7-15) 
-### Current recommended DXVK version: **1.10.1** for **AMDGPU** [1.10.1-sc-async](https://github.com/gnusenpai/dxvk/releases/tag/v1.10.1-sc-async) from gnusenpai for **NVIDIA**
 > Questions or Problems? Ask for help in one of our [social channels](https://github.com/starcitizen-lug/information-howtos#socials)!
 
 > On first launch, the game will stutter with low FPS while shaders are compiled and caches are filled. As you run/fly around and travel to different places, performance will increase.
 > This can also occur after updating Star Citizen, your graphics driver, Wine, or DXVK.
-
->*NVIDIA* users Should use gnusenpai DXVK https://github.com/gnusenpai/dxvk/releases/tag/v1.10.1-sc-async to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
