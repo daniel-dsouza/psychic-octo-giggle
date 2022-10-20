@@ -17,6 +17,8 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 ## News
 
+> (Oct 20, 2022) **Note to Nvidia users:** You may see a popup that your graphics driver is out of date. This is a warning that can be ignored. To remove this warning, disable `DXVK-NVAPI/DLSS` in your Lutris runner options.
+
 > (Oct 17, 2022) DXVK v1.10.2/v1.10.3 may cause a black or transparent screen after launching the game depending on your hardware. If you experience this, try a different DXVK version.
 
 > (Oct 14, 2022) Penguins on rolling release distributions (ie. Arch, Manjaro) are reporting sound issues in-game. The solution is to set `Prefer System Libraries` in Lutris to `ON`.
