@@ -1,6 +1,9 @@
 ## News
 Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for temporary issues and workarounds.
 
+## Popup saying your Nvidia graphics driver is out of date
+Disable DXVK NVAPI in Lutris. Right click the game -> Configure -> Runner options -> Enable DXVK-NVAPI/DLSS (set to off)
+
 ## Black or flickering window that ends with a crash, possible errors 15006 or 30007
 Check for larger resolutions and scaling settings.  See this support article:
 
