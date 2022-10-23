@@ -85,6 +85,10 @@ Check that the game has not set the deadzone for this axis to 100%
 Completely close Lutris with `kill lutris`, delete everything inside the Lutris cache directory `~/.cache/lutris`, and relaunch Lutris.
 
 
+## Installing Star Citizen on an NTFS-formatted drive
+See: https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows
+
+
 ## Workarounds For In-Game Bugs and Annoyances
 https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/known-workarounds-for-game-bugs-and-annoyances
 > Join the org to access Spectrum links: https://robertsspaceindustries.com/orgs/LUG
