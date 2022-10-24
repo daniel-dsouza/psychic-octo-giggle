@@ -4,8 +4,8 @@
 2. Install Lutris: https://lutris.net/downloads/
 3. Download our LUG Helper from: https://github.com/starcitizen-lug/lug-helper
 4. Launch the LUG Helper and run the `Pre-flight Check` to optimize your system settings
-5. In the LUG Helper, select `Deploy Easy Anti-Cheat Workaround`
-6. In the LUG Helper, select `Install Star Citizen` and install the launcher to an SSD (we do not recommend an HDD)
+5. In the LUG Helper, select `Install Star Citizen` and install the launcher to an SSD (we do not recommend an HDD)
+6. In the LUG Helper, select `Deploy Easy Anti-Cheat Workaround`
 7. In the LUG Helper, select `Manage Lutris Runners`, and install the latest runner from GloriousEggroll (Or ask us in Spectrum chat which runner is currently best)
 8. Configure Lutris to use the installed runner. `Right click the game->Configure->Runner Options->Wine version`
 9. _Optional: Select `Manage DXVK Versions` and install the latest dxvk from Sporif Async. Follow the instructions [on our wiki](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async) to enable it in Lutris_
