@@ -47,7 +47,7 @@ Add the following line to your /etc/hosts file:
 
 ## Installing
 
-* Install vanilla Wine 6.4+ or a custom Runner **(As of 3.13 we recommend a [runner built for Star Citizen](https://github.com/starcitizen-lug/information-howtos/wiki/Wine-Builds-for-Star-Citizen))**
+* Install vanilla Wine 7.14+ or a custom Runner **(As of 3.13 we recommend a [runner built for Star Citizen](https://github.com/starcitizen-lug/information-howtos/wiki/Wine-Builds-for-Star-Citizen))**
 * Create your wine prefix: `WINEPREFIX=~/path/you/want/to/Star-Citizen winecfg`
 
 * In the window that pops up, select **Windows 10** as Windows version and click OK
