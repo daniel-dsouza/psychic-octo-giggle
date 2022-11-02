@@ -2,7 +2,7 @@
 
 1. Install wine-staging (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
 2. Install Lutris: https://lutris.net/downloads/
-3. Download our LUG Helper from: https://github.com/starcitizen-lug/lug-helper
+3. Download our LUG Helper from: https://github.com/starcitizen-lug/lug-helper (distro packages listed [here](https://github.com/starcitizen-lug/lug-helper#installation))
 4. Launch the LUG Helper and run the `Pre-flight Check` to optimize your system settings
 5. In the LUG Helper, select `Install Star Citizen` and install the launcher to an SSD (we do not recommend an HDD)
 6. Run the launcher from Lutris and finish installing the game
