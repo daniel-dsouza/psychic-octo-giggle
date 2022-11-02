@@ -1,3 +1,6 @@
+## AMD FidelityFX Super Resolution (FSR) upscaling
+In the Lutris `Runner options` tab, enable `AMD FidelityFX Super Resolution` or set the environment variable `WINE_FULLSCREEN_FSR=1`. Then, in the Star Citizen graphics settings, set the game to fullscreen and your desired resolution and it will be FSR scaled up. We recommend restarting the game after changing its resolution for better performance.
+
 ## Automatically Disable/Re-Enable Mouse Acceleration
 Lutris can automatically toggle on/off a flat mouse acceleration profile with the following configuration
 
