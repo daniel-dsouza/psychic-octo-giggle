@@ -12,9 +12,8 @@
 10. _Optional: Select `Manage DXVK Versions` and install the latest dxvk from Sporif Async. **Nvidia users**, see our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current DXVK recommendations. Follow the instructions [on our wiki](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async) to enable it in Lutris_
 11. _Optional: In the Runner Options tab, Enable Fsync if you have an Fsync-enabled kernel (enabled in standard kernel since 5.16)_
 12. Under `System options`, make sure `Prefer system libraries` is `Off`. Only if you find you have no sound in-game, turn this to `On`
-13. Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for important gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions
-14. **Nvidia users:** You _really_ need to check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current driver and DXVK version requirements
-15. Run the launcher again and start the game. See you in the 'verse!
+13. Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for important Nvidia gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions
+14. Run the launcher again and start the game. See you in the 'verse!
 
 ## Important Information
 > Questions or Problems? Ask for help in one of our [social channels](https://github.com/starcitizen-lug/information-howtos#socials)!
