@@ -2,7 +2,7 @@
 In the Lutris `Runner options` tab, enable `AMD FidelityFX Super Resolution` or set the environment variable `WINE_FULLSCREEN_FSR=1`. Then, in the Star Citizen graphics settings, set the game to fullscreen and your desired resolution and it will be FSR scaled up. We recommend restarting the game after changing its resolution for better performance.
 
 ## Head tracking using Opentrack
-At the moment, the simplest method to use Opentrack with Star Citizen is to install the Windows version of Opentrack within Lutris.
+At the moment, the simplest method to use Opentrack with Star Citizen is to install the Windows version of Opentrack within Lutris
 - Configure it to run from the same wine prefix as Star Citizen
 - Select "Freetrack 2.0 enhanced" as the output
 
