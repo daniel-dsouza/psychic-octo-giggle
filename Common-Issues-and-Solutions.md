@@ -20,8 +20,11 @@ Launching Lutris in debug mode (`lutris -d`) will show a `KeyError: 'contentstat
 Check your Lutris version. This is fixed in v0.5.11. https://lutris.net/downloads
 
 ## Lutris error: Star Citizen process exited abnormally (code: 3) : Command failed
-You are likely missing 32bit drivers. Nvidia: `lib32-nvidia-utils` or `lib32-mesa`. AMD: `lib32-vulkan-radeon`
-Additionally, manually set the Vulkan ICD loader in Lutris to 
+You are likely missing 32bit drivers. Make sure the following packages are installed (names may vary depending on your distro)
+- Nvidia: `lib32-nvidia-utils`
+- AMD: `lib32-mesa` and `lib32-vulkan-radeon`
+
+Additionally, explicitly set the Vulkan ICD loader in Lutris to either `Nvidia Proprietary` or `AMD RADV Open Source`
 Right click the game -> Configure -> System options -> Vulkan ICD loader
 
 ## Game crashes after clicking 'Launch'
