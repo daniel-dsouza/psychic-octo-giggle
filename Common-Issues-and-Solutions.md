@@ -14,6 +14,16 @@ Try changing to a different DXVK version in the Lutris settings.  Alternate DXVK
 
 DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
 
+## Install button in the game's launcher does nothing, or Launch Game gets stuck at "launching..."
+Launching Lutris in debug mode (`lutris -d`) will show a `KeyError: 'contentstatsid'` error.
+
+Check your Lutris version. This is fixed in v0.5.11. https://lutris.net/downloads
+
+## Lutris error: Star Citizen process exited abnormally (code: 3) : Command failed
+You are likely missing 32bit drivers. Nvidia: `lib32-nvidia-utils` or `lib32-mesa`. AMD: `lib32-vulkan-radeon`
+Additionally, manually set the Vulkan ICD loader in Lutris to 
+Right click the game -> Configure -> System options -> Vulkan ICD loader
+
 ## Game crashes after clicking 'Launch'
 This could have many causes. Your best bet is to check the Wine output and/or "game.log" file. See common causes below:
 
