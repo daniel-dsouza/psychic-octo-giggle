@@ -14,7 +14,7 @@ Try changing to a different DXVK version in the Lutris settings.  Alternate DXVK
 
 DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
 
-## Install button in the game's launcher does nothing, or Launch Game gets stuck at "launching..."
+## Install button does nothing when trying to install Star Citizen, or Launch Game gets stuck at "launching..."
 Launching Lutris in debug mode (`lutris -d`) will show a `KeyError: 'contentstatsid'` error.
 
 Check your Lutris version. This is fixed in v0.5.11. https://lutris.net/downloads
