@@ -29,6 +29,6 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 > (Oct 20, 2022) You may see a popup that your graphics driver is out of date. This is a warning that can be ignored. To remove this warning, disable `DXVK-NVAPI/DLSS` in your Lutris runner options.
 
-> (Jun 11, 2022) NVIDIA users with RTX cards should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
+> (Jun 11, 2022) NVIDIA users with RTX cards should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error/crash. Can be installed manually or from the LUG helper.
 
 > (March 6, 2022) Driver v495 causes issues for most people. If you have unresolvable performance issues with 510, try 470.
