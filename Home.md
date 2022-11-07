@@ -23,7 +23,7 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 > (Oct 14, 2022) Penguins on rolling release distributions (ie. Arch, Manjaro) are reporting sound issues in-game. The solution is to set `Prefer System Libraries` in Lutris to `ON`.
 
-> (Jun 11, 2022) **Note to Nvidia users:** NVIDIA users Should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
+> (Jun 11, 2022) **Note to Nvidia users:** NVIDIA users with RTX cards should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error. Can be installed manually or from the LUG helper.
 
 > (March 6, 2022) **Note to Nvidia users:** Driver v495 causes issues for most people. If you have unresolvable performance issues with 510, try 470.
 
