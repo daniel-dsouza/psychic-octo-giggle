@@ -33,6 +33,8 @@ This could have many causes. Your best bet is to check the Wine output and/or "g
 ### Possible cause 1:
 Some people report changing their DXVK version fixes this. Try using our [Helper](https://github.com/starcitizen-lug/lug-helper) to download an async DXVK.
 
+Nvidia users, check our [news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions.
+
 DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
 
 ### Possible cause 2:
