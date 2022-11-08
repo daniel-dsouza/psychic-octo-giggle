@@ -12,6 +12,8 @@ https://support.robertsspaceindustries.com/hc/en-us/articles/360000081887-Guide-
 ## Game hangs at splash screen or black/transparent window after clicking 'Launch'
 Try changing to a different DXVK version in the Lutris settings.  Alternate DXVKs can be quickly installed using our [LUG Helper](https://github.com/starcitizen-lug/lug-helper).
 
+Nvidia users, check our [news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions.
+
 DXVK installation instructions are available on our wiki [here](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async).
 
 ## Install button does nothing when trying to install Star Citizen, or Launch Game gets stuck at "launching..."
