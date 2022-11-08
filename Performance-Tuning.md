@@ -6,7 +6,8 @@ https://github.com/starcitizen-lug/lug-helper
 ## DXVK Async
 Using an async DXVK can greatly reduce stuttering.  
 We recommend https://github.com/Sporif/dxvk-async/ (Nvidia users, see our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news))  
-You can manually download it or use the Helper to automatically install it for Lutris. After downloading, be sure to set the environment variable `DXVK_ASYNC=1` and enable the downloaded version in the Lutris runner options.
+You can manually download it into the Lutris dxvk directory or use the Helper to automatically install it  
+After downloading, be sure to set the environment variable `DXVK_ASYNC=1` and enable the downloaded version in the Lutris runner options.
 1. `Right click the game->Configure->System options->Environment variables`. Add `DXVK_ASYNC` as the key and `1` as the value.
 2. `Right click the game->Configure->Runner Options`. Check `Show advanced options` to unhide `DXVK version`.
 3. In `DXVK version`, select `Manual` then overwrite it with the folder name of the downloaded dxvk (ie. _dxvk-async-1.9.4_)
