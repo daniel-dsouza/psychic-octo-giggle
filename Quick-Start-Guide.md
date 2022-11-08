@@ -15,7 +15,7 @@
 13. Run the launcher again and start the game. See you in the 'verse!
 
 ## Video Guide
-Video guides of the above are available for [AMD](https://www.youtube.com/watch?v=cHGtwIH5ocI) and Nvidia by Grumpy
+Video guides of the above are available for [AMD](https://www.youtube.com/watch?v=cHGtwIH5ocI) and [Nvidia](https://www.youtube.com/watch?v=QVVPv12RGtk) by Grumpy
 
 ## Important Information
 > Questions or Problems? Ask for help in one of our [social channels](https://github.com/starcitizen-lug/information-howtos#socials)!
