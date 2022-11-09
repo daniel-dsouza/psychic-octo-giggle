@@ -60,6 +60,8 @@ To prevent the crash, use a override option like this:
 
 If using Lutris, configure Star Citizen (right-click -> Configure), go to Game options, and add `"--use-gl=osmesa"` to the Arguments field.
 
+## Empty launcher
+Log out and reset the launcher by pressing Ctrl+Shift+Alt+R
 
 ## Game crashes with " 00adntdll:FILE_GetNtStatus Converting errno 12 to STATUS_UNSUCCESSFUL "
 Make sure you have set your vm.max_map_count as described in the installation section.
