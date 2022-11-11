@@ -9,7 +9,7 @@
 7. In the LUG Helper, select `Deploy Easy Anti-Cheat Workaround`
 8. In the LUG Helper, select `Manage Lutris Runners`, and install the latest runner from GloriousEggroll (or ask us on our [social channels](https://github.com/starcitizen-lug/information-howtos#socials) which runner is currently recommended)
 9. Configure Lutris to use the installed runner. `Right click the game->Configure->Runner Options->Wine version`
-10. In the LUG Helper, select `Manage DXVK Versions` and install the latest dxvk from Sporif Async. **Nvidia users**, see our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) instead for current dxvk recommendations. Follow the instructions [on our wiki](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async) to enable it in Lutris
+10. In the LUG Helper, select `Manage DXVK Versions`. **AMD:** Install the latest dxvk from Sporif Async. **Nvidia:** see our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for current dxvk recommendations. Follow the instructions [on our wiki](https://github.com/starcitizen-lug/information-howtos/wiki/Performance-Tuning#dxvk-async) to enable it in Lutris
 11. Under `System options`, make sure `Prefer system libraries` is `Off`. Only if you have no sound in-game, turn this to `On`
 12. Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for important Nvidia gpu driver issues, necessary workarounds, and currently recommended runner/DXVK versions
 13. Run the launcher again and start the game. See you in the 'verse!
