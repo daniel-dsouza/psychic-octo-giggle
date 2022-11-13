@@ -27,6 +27,8 @@ Matrix space: https://matrix.to/#/#SCLUG:matrix.org
 
 **Nvidia**
 
+> (Nov 13, 2022) DXVK 2.0 requires Nvidia driver **v510.47.03** or later, but **v520.56.06** or later is recommended.
+
 > (Oct 20, 2022) You may see a popup that your graphics driver is out of date. This is a warning that can be ignored. To remove this warning, disable `DXVK-NVAPI/DLSS` in your Lutris runner options.
 
 > (Jun 11, 2022) NVIDIA users with RTX cards should use [gnusenpai DXVK v1.10.1 or later](https://github.com/gnusenpai/dxvk/releases) to fix the `corrupted size vs. prev_size` error/crash. Can be installed manually or from the LUG helper.
