@@ -1,6 +1,6 @@
 ## Prerequisites
 1. Install wine-staging (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
-2. Install winetricks **v20220411** or newer: https://github.com/Winetricks/winetricks/#installing
+2. Install winetricks **v20210825** or newer: https://github.com/Winetricks/winetricks/#installing
 3. Install Lutris **v0.5.10.1** or newer: https://lutris.net/downloads/
 
 ## Installation Steps
