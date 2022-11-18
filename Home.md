@@ -27,6 +27,8 @@ This wiki is a collection of information on how to run Star Citizen on Linux, as
 
 **Nvidia**
 
+> (Nov 17, 2022) DXVK 2.0 changes the way shaders are handled on some Nvidia cards and may provide better performance than async (see the [release notes](https://github.com/doitsujin/dxvk/releases/tag/v2.0)). If you have worse performance on 2.0, remove the the `DXVK_ASYNC=1` environment variable.
+
 > (Nov 13, 2022) DXVK 2.0 requires Nvidia driver **v510.47.03** or later, but **v520.56.06** or later is recommended.
 
 > (Oct 20, 2022) You may see a popup that your graphics driver is out of date. This is a warning that can be ignored. To remove this warning, disable `DXVK-NVAPI/DLSS` in your Lutris runner options.
