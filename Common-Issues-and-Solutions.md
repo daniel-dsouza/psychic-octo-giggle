@@ -85,7 +85,7 @@ Try using a different runner. Ask on Spectrum or in our social channels which ru
 
 
 ## Empty launcher
-Log out and reset the launcher by pressing Ctrl+Shift+Alt+R
+Log out log back in, or reset the launcher by pressing Ctrl+Shift+Alt+R
 
 
 ## Launcher hangs / stops responding / crashes with an "ASAR" error
