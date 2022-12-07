@@ -23,6 +23,10 @@ Configure the game within Lutris and go to `System options`. Make sure `Show adv
 
 `/usr/bin/sh -c 'kwriteconfig5 --file "kcminputrc" --group "Mouse" --key "XLbInptAccelProfileFlat" false'`
 
+## Rudder pedals
+If your pedals aren't being recognized, the following python script may help:  
+https://github.com/beniwtv/evdev-spoof-device
+
 ## Suggestions for a good gaming experience
 https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/information-how-to-get-a-good-experience-with-star
 > Join the org to access Spectrum links: https://robertsspaceindustries.com/orgs/LUG
