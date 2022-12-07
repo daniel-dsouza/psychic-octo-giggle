@@ -24,8 +24,10 @@ Configure the game within Lutris and go to `System options`. Make sure `Show adv
 `/usr/bin/sh -c 'kwriteconfig5 --file "kcminputrc" --group "Mouse" --key "XLbInptAccelProfileFlat" false'`
 
 ## Rudder pedals
-If your pedals aren't being recognized, the following python script may help:  
+If your pedals aren't being recognized by Star Citizen, but work on Linux, the following Python script may help:  
 https://github.com/beniwtv/evdev-spoof-device
+
+This creates a virtual device from the real device, adding a few more capabilities to make Star Citizen not discard it as an invalid device.
 
 ## Suggestions for a good gaming experience
 https://robertsspaceindustries.com/spectrum/community/LUG/forum/149/thread/information-how-to-get-a-good-experience-with-star
