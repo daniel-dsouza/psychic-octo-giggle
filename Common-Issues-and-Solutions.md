@@ -6,7 +6,7 @@
 
 ### Important Settings to Check
 
-- Make sure the `SDL_VIDEODRIVER` environment variable is not set globally to `wayland`. This causes incompatibilities with many games.
+- Make sure the `SDL_VIDEODRIVER` environment variable is **NOT** set globally to `wayland`. This causes incompatibilities with many games.
 
 ***
 
