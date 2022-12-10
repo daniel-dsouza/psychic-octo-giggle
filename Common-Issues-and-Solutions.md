@@ -4,7 +4,7 @@
 - Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for known temporary issues, workarounds, and runner/dxvk/driver requirements (especially Nvidia users!)
 - Run Lutris in debug mode to see more verbose logging. Native: `lutris -d` Flatpak: `flatpak run net.lutris.Lutris -d`
 
-### Important Settings to Check
+### Important Settings
 
 - Make sure the `SDL_VIDEODRIVER` environment variable is **NOT** set globally to `wayland`. This causes incompatibilities with many games.
 
