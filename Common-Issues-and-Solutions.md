@@ -1,7 +1,14 @@
 # > Troubleshooting Steps
 
+- Make sure our [LUG Helper](https://github.com/starcitizen-lug/lug-helper)'s Preflight Check passes all checks
 - Check our [latest news](https://github.com/starcitizen-lug/information-howtos/wiki#news) for known temporary issues, workarounds, and runner/dxvk/driver requirements (especially Nvidia users!)
 - Run Lutris in debug mode to see more verbose logging. Native: `lutris -d` Flatpak: `flatpak run net.lutris.Lutris -d`
+
+**Important Settings to Check First**
+
+- Make sure the `SDL_VIDEODRIVER` environment variable is not set globally to `wayland`. This causes incompatibilities with many games.
+
+***
 
 
 
@@ -63,6 +70,7 @@ In the Wine configuration, under the `Applications` tab, change `Windows version
 ## Installing Star Citizen on an NTFS-formatted drive
 See: https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows
 
+***
 
 # > Freezes & Unexpected Behavior
 
@@ -97,7 +105,7 @@ If you do need to disable the Lutris runtime, the Lutris guys would like to have
 
 And send a log to @beniwtv on Spectrum or send it to Lutris developers in the Lutris Discord.
 
-
+***
 
 # > Crashes During Gameplay
 
@@ -108,12 +116,14 @@ Make sure you have set your vm.max_map_count as described in the installation se
 ## Game crashes when going to Lorville / ArcCorp or crashes often when launching
 Make sure you followed the guide to install Wine's dependencies and set your vm.max_map_count as described in the installation section.
 
+***
 
 # > Nvidia
 
 ## Popup saying your Nvidia graphics driver is out of date
 Disable DXVK NVAPI in Lutris. Right click the game -> Configure -> Runner options -> Enable DXVK-NVAPI/DLSS (set to off)
 
+***
 
 # > Controller Issues
 
@@ -125,14 +135,14 @@ Then execute the wine joystick control panel (in Lutris: right-click -> Joystick
 ## Some of your joystick axis aren't recognized / don't map
 Check that the game has not set the deadzone for this axis to 100%
 
-
+***
 
 # > Lutris Issues
 
 ## In Lutris, right clicking on Star Citizen and selecting "Configure" does not bring up the configuration
 Completely close Lutris with `kill lutris`, delete everything inside the Lutris cache directory `~/.cache/lutris`, and relaunch Lutris.
 
-
+***
 
 # > Other Issues
 
