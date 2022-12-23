@@ -17,6 +17,8 @@ This wiki is a collection of information on how to run Star Citizen on Linux, as
 
 ## News
 
+> (Dec 23, 2022) 3.18 PTU may cause mouse issues for some people using Wayland. Using Gamescope with the game is a workaround, and can be easily enabled through Lutris or manually.
+
 > (Oct 17, 2022) DXVK v1.10.2/v1.10.3 may cause a black or transparent screen after launching the game depending on your hardware. If you experience this, try a different DXVK version.
 
 > (Oct 14, 2022) Penguins on rolling release distributions (ie. Arch, Manjaro) are reporting sound issues in-game. The solution is to set `Prefer System Libraries` in Lutris to `ON`.
