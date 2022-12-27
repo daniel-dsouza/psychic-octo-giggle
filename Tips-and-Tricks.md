@@ -36,7 +36,7 @@ https://github.com/beniwtv/evdev-spoof-device
 2) Another solution is to create a Kernel udev rule to change the classification of your device. 
 
     * Create a file `/etc/udev/rules.d/90-pedals-workaround.rules`.
-    * Add this file, changing your vendor and model IDs (can be found by using `lsusb`):
+    * Add this to the file, changing your vendor and model IDs (can be found by using `lsusb`):
 
 > ACTION=="add|change", KERNEL=="event[0-9]*", ENV{ID_VENDOR_ID}=="044f", ENV{ID_MODEL_ID}=="b679", ENV{ID_INPUT_ACCELEROMETER}="", ENV{ID_INPUT_JOYSTICK}="1", TAG+="uaccess"
 
