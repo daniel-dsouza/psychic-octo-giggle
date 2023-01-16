@@ -51,3 +51,7 @@ An fsync-enabled Kernel can help improve smoothness while shaders are being comp
 ## Swap
 
 Depending on your system hardware, a larger swap file may be needed. For systems with 16gb RAM, we recommend at least a 16gb swap file. Less swap space may be needed for systems with 32gb or more of RAM.
+
+## CPU Governor
+
+In some hardware configurations, Intel CPU's under `Performance` or `Balanced` modes may try to boost to the highest frequency for short bursts of performance, followed by a lower frequency to cool off. This may result in unstable FPS. In this scenario, some Penguins have found that changing the Thermal Mode to `Cool Bottom` maintained a more stable CPU frequency.
