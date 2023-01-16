@@ -54,4 +54,6 @@ Depending on your system hardware, a larger swap file may be needed. For systems
 
 ## CPU Governor
 
-In some hardware configurations, Intel laptop CPU's under `Performance` or `Balanced` modes may try to boost to the highest frequency for short bursts of performance, followed by a lower frequency to cool off. This may result in unstable FPS. In addition, configuring the CPU governor at the OS/kernel kernel level may not be enough and may be overridden by BIOS settings. In this scenario, some Penguins have found that changing the Thermal Mode in their BIOS to `Cool Bottom` maintained a more stable CPU frequency.
+In some hardware configurations, Intel laptop CPU's under `Performance` or `Balanced` modes may try to boost to the highest frequency for short bursts of performance, followed by a lower frequency to cool off. This may result in unstable FPS.
+
+In addition, configuring the CPU governor at the OS/kernel kernel level may not be enough and may be overridden by BIOS settings. In this scenario, some Penguins have found that changing the Thermal Mode in their BIOS to `Cool Bottom` maintained a more stable CPU frequency.
