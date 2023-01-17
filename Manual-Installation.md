@@ -3,8 +3,9 @@
 1. A minimum of 16GB of RAM
 2. A CPU that supports the AVX instruction set
 3. wine-staging (or just the dependencies) installed on your system. Follow this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
-4. vm.max_map_count set to at least 16777216
-5. Hard open file descriptors limit set to at least 524288
+4. winetricks v20210825 or newer: https://github.com/Winetricks/winetricks/#installing
+5. vm.max_map_count set to at least 16777216
+6. Hard open file descriptors limit set to at least 524288
 
 **To check and set vm.max_map_count temporarily**
 ```
