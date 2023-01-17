@@ -1,7 +1,6 @@
 ## Prerequisites
 1. Install wine-staging (or just the dependencies) on your system following this guide: https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
-2. Install winetricks **v20210825** or newer: https://github.com/Winetricks/winetricks/#installing
-3. Install Lutris **v0.5.10.1** or newer: https://lutris.net/downloads/
+2. Install Lutris **v0.5.10.1** or newer: https://lutris.net/downloads/
 
 ## Installation Steps
 1. Download our LUG Helper from: https://github.com/starcitizen-lug/lug-helper (distro packages listed [here](https://github.com/starcitizen-lug/lug-helper#installation))
