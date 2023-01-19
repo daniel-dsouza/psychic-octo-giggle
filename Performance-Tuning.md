@@ -52,8 +52,12 @@ An fsync-enabled Kernel can help improve smoothness while shaders are being comp
 
 Depending on your system hardware, a larger swap file may be needed. For systems with 16gb RAM, we recommend at least a 16gb swap file. Less swap space may be needed for systems with 32gb or more of RAM.
 
-## CPU Governor
+## Changing CPU scaling behavior via the Linux kernel and System Management BIOS
 
-In some hardware configurations, Intel laptop CPU's under `Performance` or `Balanced` modes may try to boost to the highest frequency for short bursts of performance, followed by a lower frequency to cool off. This may result in unstable FPS.
+To achieve a more stable framerate in Star Citizen, ideally you will want a stable CPU frequency. There are [several schedulers](https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt) provided by the Linux kernel. Start with the `Performance` scheduler to hint that the CPU should always run at the maximum frequency before trying the demand-based schedulers.
 
-In addition, configuring the CPU governor at the OS/kernel kernel level may not be enough and may be overridden by BIOS settings. In this scenario, some Penguins have found that changing the Thermal Mode in their BIOS to `Cool Bottom` maintained a more stable CPU frequency.
+In some conditions where your laptop is either thermal-limited or power-limited, the CPU and GPU will set the maximum frequency, and then fall to a low frequency (800 MHz) when it hits the limit. 
+
+Some mobile hardware configurations, namely an Dell laptop with an Intel CPU, may have other factors that influence CPU frequency scaling. You can try to configure these settings in the BIOS or via [SMBIOS](https://www.dmtf.org/standards/smbios) - such a utility is provided by the `smbios-utils` package in Ubuntu distros. 
+
+Changing the kernel scheduler between `Performance` and the various demand-based schedulers didn't seem to affect CPU frequency scaling, but setting the SMBIOS thermal mode to `cool-bottom` with the command `sudo smbios-thermal-ctl --set-thermal-mode=cool-bottom` seemed to emulate what I would expect the `conservative` kernel governor to do; gradually increment/decrement the CPU frequency and stablizing the framerate.
